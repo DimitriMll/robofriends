@@ -1,4 +1,16 @@
-# Getting Started with Create React App
+# ROBOFRIENDS
+
+## First React App
+[<img src="https://github.com/DimitriMll/DimitriMll/blob/main/assets/robo1.PNG">](https://dimitrimll.github.io/robofriends/)
+[<img src="https://github.com/DimitriMll/DimitriMll/blob/main/assets/robo2.PNG">](https://dimitrimll.github.io/robofriends/)
+
+## 🚀 Tecnologias utilizadas
+  - [<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="react" width="30" height="30">](https://reactjs.org/)
+  - [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="25" height="25"/>](https://developer.mozilla.org/)
+  - [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain-wordmark.svg" alt="html5"  width="25" height="25"/>](https://developer.mozilla.org/docs/Web/HTML)
+  - [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg" alt="css3"  width="25" height="25"/>](https://developer.mozilla.org/docs/Web/CSS)
+
+## Created with Create React App:
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
